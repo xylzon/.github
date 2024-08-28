@@ -6,6 +6,27 @@ Welcome to Xylzon, where creativity and technology come together. We specialize 
 
 At Xylzon, we are passionate about creating intuitive, high-performance web applications that inspire creativity and facilitate artistic expression. We believe that creativity has the power to change the world. Our team of talented individuals specializes in various forms of creative expression, from graphic design and digital art to music production and content creation. We strive to provide personalized, high-quality services that cater to your specific needs and vision. Our team combines expertise in software development, design, and music production to deliver powerful, user-friendly tools that cater to the needs of both amateurs and professionals.
 
+## Services
+
+### Design
+- Graphic Design: Logos, branding, brochures, posters, and more.
+- Web Design: User-friendly and visually appealing websites.
+- UI/UX Design: Interactive and engaging user interfaces for web and mobile apps.
+
+### Art
+- Digital Art: Custom illustrations, digital paintings, and concept art.
+- Traditional Art: Hand-drawn sketches, watercolor, and mixed media art.
+- 3D Art: 3D modeling, rendering, and animation.
+
+### Music
+- Music Production: Original compositions, soundtracks, and jingles.
+- Sound Design: Audio effects, voice-overs, and mixing.
+
+### Content Creation
+- Writing: Blog posts, articles, and storytelling.
+- Video Production: Tutorials, and social media content.
+- Photography: Professional photoshoots for products, events, and personal branding.
+
 ## Our Products
 
 ### Artion (Paint App) 
