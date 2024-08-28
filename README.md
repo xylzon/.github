@@ -4,7 +4,7 @@ Welcome to Xylzon, where creativity and technology come together. We specialize 
 
 ## About Us
 
-At Xylzon, we are passionate about creating intuitive, high-performance web applications that inspire creativity and facilitate artistic expression. Our team combines expertise in software development, design, and music production to deliver powerful, user-friendly tools that cater to the needs of both amateurs and professionals.
+At Xylzon, we are passionate about creating intuitive, high-performance web applications that inspire creativity and facilitate artistic expression. We believe that creativity has the power to change the world. Our team of talented individuals specializes in various forms of creative expression, from graphic design and digital art to music production and content creation. We strive to provide personalized, high-quality services that cater to your specific needs and vision. Our team combines expertise in software development, design, and music production to deliver powerful, user-friendly tools that cater to the needs of both amateurs and professionals.
 
 ## Our Products
 
